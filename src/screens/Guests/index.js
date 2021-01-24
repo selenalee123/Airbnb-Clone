@@ -89,7 +89,7 @@ const GuestsScreen = () => {
               screen: 'Explore',
               params: {
                 screen: 'SearchResults',
-              }
+              },
             })}
             style={{
             marginBottom: 20, backgroundColor: 'red',
@@ -98,8 +98,8 @@ const GuestsScreen = () => {
             height: 50,
             marginHorizontal: 20,
             borderRadius: 10,
-            marginTop: 400
-          }}>
+            marginTop: 400,
+            }}>
             <Text>Search </Text>
 
           </Pressable>
