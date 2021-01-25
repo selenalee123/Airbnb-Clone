@@ -4,17 +4,15 @@ const styles = StyleSheet.create({
   container: {
     height: 120,
     padding: 5,
-
-
     shadowColor: "#000",
     shadowOffset: {
       width: 0,
-      height: 5,
+      height: 11,
     },
-    shadowOpacity: 0.34,
-    shadowRadius: 6.27,
+    shadowOpacity: 0.55,
+    shadowRadius: 14.78,
 
-    elevation: 10,
+    elevation: 22,
   },
 
   innerContainer: {
