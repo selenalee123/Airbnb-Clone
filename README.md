@@ -24,5 +24,5 @@ Kim Kim Ly
 
 Connect with me through Linkedln: https://www.linkedin.com/in/kimkimly123/
 
-I:\App development\React Native\Project\AirBnB\assets\demoapp
-![.](assets\demoapp\Demo1.gif)
+
+![.](assets/demoapp/Demo1.gif)
